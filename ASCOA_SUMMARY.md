@@ -30,7 +30,7 @@ Core Features:
 - Centralized analytics/crash reporting wrapper and reusable design tokens/components.
 
 My Contribution:
-- Architected the GetX modular structure, shared design system, and centralized validation/bindings.
+- Engineered and architected the GetX modular structure, shared design system, and centralized validation/bindings.
 - Implemented the auth suite (deep-link reset, email verification, change password) and profile flows with avatar pipeline.
 - Designed and implemented the stats/reporting module with aggregation logic, filters, and map rendering.
 - Optimized content loading with Hive caching, media deduplication, and image compression/thumbnailing.
