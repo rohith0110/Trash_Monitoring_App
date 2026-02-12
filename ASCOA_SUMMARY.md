@@ -1,4 +1,4 @@
-ASCOA SUMMARY:
+# ASCOA SUMMARY:
 
 Problem:
 ASCOA helps environmental cleanup groups log and analyze trash collection activity, enabling volunteers and coordinators to track cleanups, report waste categories, visualize impact, and engage the community. Target users include cleanup volunteers, organizers, and community stakeholders. Based on repository docs and lack of production metrics, it appears to be an in-development/academic project rather than a live production system.
